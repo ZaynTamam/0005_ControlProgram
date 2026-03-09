@@ -28,3 +28,6 @@ int main ()
     //     status = "Lolos";
     // else
     //     status = "Gagal";
+    rerata = rata_rata(nilBI, nilMT);
+    // status = Status_lulus(rerata);
+    
